@@ -1,0 +1,11 @@
+com\huarui\dao\GroupMapper.class
+com\huarui\entity\StudentGroup.class
+com\huarui\entity\Post.class
+com\huarui\entity\User.class
+com\huarui\entity\Group.class
+com\huarui\dao\UserMapper.class
+com\huarui\dao\StudentGroupMapper.class
+com\huarui\dao\StudentMapper.class
+com\huarui\dao\PostMapper.class
+com\huarui\entity\Student.class
+com\huarui\SbMybatisApplication.class
